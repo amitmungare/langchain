@@ -8,3 +8,10 @@ arxiv
 pymupdf
 wikipedia
 langchain_text_splitters
+langchain_openai
+chromadb
+langchain_ollama
+langchain_huggingface
+sentence-transformers
+faiss-cpu
+langchain_chroma
